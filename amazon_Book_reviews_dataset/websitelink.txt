@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv
+
+
+https://www.kaggle.com/code/aryan2003/book-recommendation-system-reviews-and-ratings
+
+
+
+https://www.kaggle.com/code/sercanyesiloz/book-recommendation-system
